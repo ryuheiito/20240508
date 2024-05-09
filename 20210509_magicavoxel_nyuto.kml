@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="20210509_magicavoxel_nyuto" id="20210509_magicavoxel_nyuto">
+	<SimpleField name="����" type="string"></SimpleField>
+	<SimpleField name="�ܓx" type="float"></SimpleField>
+	<SimpleField name="�o�x" type="float"></SimpleField>
+</Schema>
+<Folder><name>20210509_magicavoxel_nyuto</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�����@�֍H��</SimpleData>
+		<SimpleData name="�ܓx">34.903424</SimpleData>
+		<SimpleData name="�o�x">137.057086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.057086,34.903424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�����_�C�J�X�g�H��</SimpleData>
+		<SimpleData name="�ܓx">34.903424</SimpleData>
+		<SimpleData name="�o�x">137.057086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.057086,34.903424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�H�@�H��</SimpleData>
+		<SimpleData name="�ܓx">34.903424</SimpleData>
+		<SimpleData name="�o�x">137.057086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.057086,34.903424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�����H��</SimpleData>
+		<SimpleData name="�ܓx">34.903424</SimpleData>
+		<SimpleData name="�o�x">137.057086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.057086,34.903424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">T&amp;K�e�N�m�������Ё@���������Z���^�[</SimpleData>
+		<SimpleData name="�ܓx">34.868847</SimpleData>
+		<SimpleData name="�o�x">137.089635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.089635,34.868847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���A�C�V��AW���������H��</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���A�C�V��AW���������H��</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���A�C�V��AW_���R�H��</SimpleData>
+		<SimpleData name="�ܓx">34.888258</SimpleData>
+		<SimpleData name="�o�x">137.09146</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.09146,34.888258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�ؓc�q��</SimpleData>
+		<SimpleData name="�ܓx">34.832718</SimpleData>
+		<SimpleData name="�o�x">137.081371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.081371,34.832718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">��1�H��</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">��2�H��</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�o�s�Z�p�Z���^�[�k���V�Z�p�Z���^�[�l</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">��1����������</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�o�s�Z���^�[�k���`�v�{�فl</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���`�v�{�Вn���~�n</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���[�^�[�H��</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�g���b�N���[�h</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���]�̋u</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�ԗ�������</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���Ƃ��q���Y</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�����E�}�~�[�Y�T�|�[�g����</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���̂Â����Z���^�[</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">��3����������</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">AW-M�i���[�j</SimpleData>
+		<SimpleData name="�ܓx">34.905987</SimpleData>
+		<SimpleData name="�o�x">137.024254</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.024254,34.905987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�쓇��</SimpleData>
+		<SimpleData name="�ܓx">34.927221</SimpleData>
+		<SimpleData name="�o�x">137.102949</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.102949,34.927221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���䗾</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">(��)�G�B�E�_�u�����E�T�[�r�X</SimpleData>
+		<SimpleData name="�ܓx">34.896881</SimpleData>
+		<SimpleData name="�o�x">137.044078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.044078,34.896881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�郖��</SimpleData>
+		<SimpleData name="�ܓx">34.906405</SimpleData>
+		<SimpleData name="�o�x">137.051004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.051004,34.906405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���l�g���[�j���O�Z���^�[</SimpleData>
+		<SimpleData name="�ܓx">34.933246</SimpleData>
+		<SimpleData name="�o�x">137.012023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.012023,34.933246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�_���V�c�q��</SimpleData>
+		<SimpleData name="�ܓx">34.743303</SimpleData>
+		<SimpleData name="�o�x">137.3364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.3364,34.743303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�e�N�m���{</SimpleData>
+		<SimpleData name="�ܓx">34.928224</SimpleData>
+		<SimpleData name="�o�x">137.093476</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.093476,34.928224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�����������Z���^�[</SimpleData>
+		<SimpleData name="�ܓx">34.861894</SimpleData>
+		<SimpleData name="�o�x">137.091156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.091156,34.861894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">��2����������</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�a�����P�H��</SimpleData>
+		<SimpleData name="�ܓx">34.924442</SimpleData>
+		<SimpleData name="�o�x">137.051004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.051004,34.924442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�a�����Q�H��</SimpleData>
+		<SimpleData name="�ܓx">34.924442</SimpleData>
+		<SimpleData name="�o�x">137.051004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.051004,34.924442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�K�c���P�H��</SimpleData>
+		<SimpleData name="�ܓx">34.857843</SimpleData>
+		<SimpleData name="�o�x">137.094808</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.094808,34.857843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�K�c���Q�H��</SimpleData>
+		<SimpleData name="�ܓx">34.857843</SimpleData>
+		<SimpleData name="�o�x">137.094808</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.094808,34.857843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�����^���H�Z���^�[(AI���̂Â����Z���^�[��)</SimpleData>
+		<SimpleData name="�ܓx">34.904025</SimpleData>
+		<SimpleData name="�o�x">137.070684</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.070684,34.904025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���g�cSKT</SimpleData>
+		<SimpleData name="�ܓx">35.102106</SimpleData>
+		<SimpleData name="�o�x">136.809608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>136.809608,35.102106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�����c�Ə�</SimpleData>
+		<SimpleData name="�ܓx">34.965825</SimpleData>
+		<SimpleData name="�o�x">137.163326</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.163326,34.965825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�����c�Ə�</SimpleData>
+		<SimpleData name="�ܓx">34.903123</SimpleData>
+		<SimpleData name="�o�x">137.075525</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.075525,34.903123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">AI�R���t�H�[�g�a��</SimpleData>
+		<SimpleData name="�ܓx">34.920701</SimpleData>
+		<SimpleData name="�o�x">137.055907</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.055907,34.920701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���ɐ��r��</SimpleData>
+		<SimpleData name="�ܓx">35.317693</SimpleData>
+		<SimpleData name="�o�x">136.7894</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>136.7894,35.317693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�A�h�o���X�E�X�N�G�A���J</SimpleData>
+		<SimpleData name="�ܓx">35.170803</SimpleData>
+		<SimpleData name="�o�x">136.887075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>136.887075,35.170803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�ɉ^�g�Ǒq��</SimpleData>
+		<SimpleData name="�ܓx">34.844232</SimpleData>
+		<SimpleData name="�o�x">137.088083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.088083,34.844232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���]���h�t�H�[��</SimpleData>
+		<SimpleData name="�ܓx">34.915526</SimpleData>
+		<SimpleData name="�o�x">137.086618</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.086618,34.915526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">ALBAX�ɓ쒆�R</SimpleData>
+		<SimpleData name="�ܓx">34.886095</SimpleData>
+		<SimpleData name="�o�x">137.003896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.003896,34.886095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�A�x�j�[������</SimpleData>
+		<SimpleData name="�ܓx">35.1967</SimpleData>
+		<SimpleData name="�o�x">136.929527</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>136.929527,35.1967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">S-FORT�㏬�c��</SimpleData>
+		<SimpleData name="�ܓx">35.223866</SimpleData>
+		<SimpleData name="�o�x">136.879522</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>136.879522,35.223866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���J�J���Z���^�[</SimpleData>
+		<SimpleData name="�ܓx">35.170803</SimpleData>
+		<SimpleData name="�o�x">136.887075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>136.887075,35.170803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�H�@�H��</SimpleData>
+		<SimpleData name="�ܓx">34.912158</SimpleData>
+		<SimpleData name="�o�x">137.064437</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.064437,34.912158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�����H��</SimpleData>
+		<SimpleData name="�ܓx">34.903424</SimpleData>
+		<SimpleData name="�o�x">137.057086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.057086,34.903424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�i���j�`�D�L���[</SimpleData>
+		<SimpleData name="�ܓx">35.319848</SimpleData>
+		<SimpleData name="�o�x">136.877567</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>136.877567,35.319848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�����T�[�r�X�Z���^�[�iAI�����H���j</SimpleData>
+		<SimpleData name="�ܓx">34.903424</SimpleData>
+		<SimpleData name="�o�x">137.057086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.057086,34.903424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�V�O�����{��</SimpleData>
+		<SimpleData name="�ܓx">34.9024</SimpleData>
+		<SimpleData name="�o�x">137.075563</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.075563,34.9024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�f�C���[���铡���X</SimpleData>
+		<SimpleData name="�ܓx">34.903144</SimpleData>
+		<SimpleData name="�o�x">137.076057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.076057,34.903144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�����H�Ƈ�ƭ������r�r</SimpleData>
+		<SimpleData name="�ܓx">34.885817</SimpleData>
+		<SimpleData name="�o�x">137.094998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.094998,34.885817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�g�ǉ��{�����P�Z���^�[�i���؁j</SimpleData>
+		<SimpleData name="�ܓx">34.82305</SimpleData>
+		<SimpleData name="�o�x">137.060184</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.060184,34.82305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�g�ǉ��{�����Q�Z���^�[�i���؁j</SimpleData>
+		<SimpleData name="�ܓx">34.827737</SimpleData>
+		<SimpleData name="�o�x">137.063154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.063154,34.827737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�g�ǖؓc�Z���^�[�i���؁j</SimpleData>
+		<SimpleData name="�ܓx">34.832718</SimpleData>
+		<SimpleData name="�o�x">137.081371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.081371,34.832718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�g�Ǒ��P���ԏ�</SimpleData>
+		<SimpleData name="�ܓx">34.839873</SimpleData>
+		<SimpleData name="�o�x">137.086592</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.086592,34.839873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�g�Ǒ��Q���ԏ�</SimpleData>
+		<SimpleData name="�ܓx">34.839873</SimpleData>
+		<SimpleData name="�o�x">137.086592</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.086592,34.839873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�g�Ǐ]�ƈ����ԏ��i���R�j</SimpleData>
+		<SimpleData name="�ܓx">34.843881</SimpleData>
+		<SimpleData name="�o�x">137.087048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.087048,34.843881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�����Z���^�[�i���؁j</SimpleData>
+		<SimpleData name="�ܓx">34.914793</SimpleData>
+		<SimpleData name="�o�x">137.0628</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.0628,34.914793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�g�ǗF�����蒓�ԏ�</SimpleData>
+		<SimpleData name="�ܓx">34.82437</SimpleData>
+		<SimpleData name="�o�x">137.085983</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.085983,34.82437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�郖���{��</SimpleData>
+		<SimpleData name="�ܓx">34.90428</SimpleData>
+		<SimpleData name="�o�x">137.046139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.046139,34.90428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�J���c�[ �����������Z���^�[</SimpleData>
+		<SimpleData name="�ܓx">34.861894</SimpleData>
+		<SimpleData name="�o�x">137.091156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.091156,34.861894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�A�C�V�� �{�ЍH��</SimpleData>
+		<SimpleData name="�ܓx">34.903571</SimpleData>
+		<SimpleData name="�o�x">137.071392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.071392,34.903571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�A�C�V�� ����</SimpleData>
+		<SimpleData name="�ܓx">34.91235513</SimpleData>
+		<SimpleData name="�o�x">137.064375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.064375,34.91235513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�{�Б�</SimpleData>
+		<SimpleData name="�ܓx">34.921279</SimpleData>
+		<SimpleData name="�o�x">137.08507</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.08507,34.921279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">AW-M�{��</SimpleData>
+		<SimpleData name="�ܓx">34.905987</SimpleData>
+		<SimpleData name="�o�x">137.024254</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.024254,34.905987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">AI��2�H���l��</SimpleData>
+		<SimpleData name="�ܓx">34.904025</SimpleData>
+		<SimpleData name="�o�x">137.070684</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.070684,34.904025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�a���H��</SimpleData>
+		<SimpleData name="�ܓx">34.915463</SimpleData>
+		<SimpleData name="�o�x">137.060127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.060127,34.915463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���m�����̑����Y</SimpleData>
+		<SimpleData name="�ܓx">34.904025</SimpleData>
+		<SimpleData name="�o�x">137.070684</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.070684,34.904025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���l�q��</SimpleData>
+		<SimpleData name="�ܓx">34.929969</SimpleData>
+		<SimpleData name="�o�x">137.012099</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.012099,34.929969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���ɐ��@�~�n�O���ԏ�</SimpleData>
+		<SimpleData name="�ܓx">35.31862</SimpleData>
+		<SimpleData name="�o�x">136.785342</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>136.785342,35.31862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�{�ЍH��</SimpleData>
+		<SimpleData name="�ܓx">34.905987</SimpleData>
+		<SimpleData name="�o�x">137.024254</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.024254,34.905987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�{��</SimpleData>
+		<SimpleData name="�ܓx">35.170803</SimpleData>
+		<SimpleData name="�o�x">136.887075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>136.887075,35.170803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�{�Б�</SimpleData>
+		<SimpleData name="�ܓx">34.916971</SimpleData>
+		<SimpleData name="�o�x">137.09846</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.09846,34.916971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���A�C�V��AW�����n��</SimpleData>
+		<SimpleData name="�ܓx">34.90307879</SimpleData>
+		<SimpleData name="�o�x">137.0698423</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.0698423,34.90307879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���̑�</SimpleData>
+		<SimpleData name="�ܓx">34.90307879</SimpleData>
+		<SimpleData name="�o�x">137.0698423</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.0698423,34.90307879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�e�N�j�J���Z���^�[</SimpleData>
+		<SimpleData name="�ܓx">34.88691156</SimpleData>
+		<SimpleData name="�o�x">137.0954734</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.0954734,34.88691156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">���R�H��</SimpleData>
+		<SimpleData name="�ܓx">34.88904448</SimpleData>
+		<SimpleData name="�o�x">137.0927356</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.0927356,34.88904448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">NTøɑq��</SimpleData>
+		<SimpleData name="�ܓx">34.91955997</SimpleData>
+		<SimpleData name="�o�x">136.9960689</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>136.9960689,34.91955997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#20210509_magicavoxel_nyuto">
+		<SimpleData name="����">�y�����Z���^�[</SimpleData>
+		<SimpleData name="�ܓx">34.91054717</SimpleData>
+		<SimpleData name="�o�x">137.0617343</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>137.0617343,34.91054717</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
